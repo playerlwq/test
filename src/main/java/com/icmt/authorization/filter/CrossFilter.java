@@ -11,7 +11,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 public class CrossFilter extends OncePerRequestFilter {
 
-	/** lwq  is 
+	/** lwq  
 	 * 跨域设置
 	 */
     @Override
